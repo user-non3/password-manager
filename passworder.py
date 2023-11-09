@@ -62,7 +62,7 @@ def choice_option():
                 os.system("clear")
 
             print("Password Manager | By Morozov")
-            print("[1] escob******@gmail.com\n\n[2] fy651****@gmail.com\n\n[3] Back to menu")
+            print("[1] none\n\n[2] none\n\n[3] Back to menu")
             google()
             
         
@@ -73,7 +73,7 @@ def choice_option():
                 os.system("clear")
 
             print("Password Manager | By Morozov")
-            print("[1] @morozov.r***** | +99890120****\n\n[2] Back to menu")
+            print("[1] none | none\n\n[2] Back to menu")
             vkontakte()
 
         elif number == '3':
@@ -83,7 +83,7 @@ def choice_option():
                 os.system("clear")
 
             print("Password Manager | By Morozov")
-            print("[1] escob******@gmail.com | @morozov-de*******\n\n[2] Back to menu")
+            print("[1] none | none\n\n[2] Back to menu")
             github()
             
         elif number == '4':
@@ -93,7 +93,7 @@ def choice_option():
                 os.system('clear')
             
             print("Password Manager | By Morozov")
-            print("[1] akbara****.110\n\n[2] akbara****.107\n\n[3] Back to menu")
+            print("[1] none\n\n[2] none\n\n[3] Back to menu")
             instagram()
 
         elif number == '5':
@@ -127,7 +127,7 @@ def google():
             os.system("clear")
 
         print("Password Manager | By Morozov")
-        print("[Email] escobarro700@gmail.com\n[Password] Azimjon2008")
+        print("[Email] none\n[Password] none")
         time.sleep(30)
         main()
 
@@ -138,7 +138,7 @@ def google():
             os.system("clear")
 
         print("Password Manager | By Morozov")
-        print("[Email] fy6512002@gmail.com\n[Password] Ipadairmax2")
+        print("[Email] none\n[Password] none")
         time.sleep(30)
         main()
 
@@ -172,7 +172,7 @@ def vkontakte():
         else:
             os.system("clear")
         print("Password Manager | By Morozov")
-        print("[Phone] +998(90)120-00-62\n[Login] @morozov.razrab\n[Password] Azimjon2008")
+        print("[Phone] none\n[Login] none\n[Password] none")
         time.sleep(30)
         main()
 
@@ -187,7 +187,7 @@ def github():
         else:
             os.system("clear")
         print("Password Manager | By Morozov")
-        print("[Email] escobarro700@gmail.com\n[Login] @morozov-developer\n[Password] Azimjon2008")
+        print("[Email] none\n[Login] none\n[Password] none")
         time.sleep(30)
         main()
 
@@ -202,7 +202,7 @@ def instagram():
         else:
             os.system("clear")
         print("Password Manager | By Morozov")
-        print("[Email] escobarro700@gmail.com\n[Login] akbaraliev.110\n[Password] Azimjon110")
+        print("[Email] none\n[Login] none\n[Password] none")
         time.sleep(30)
         main()
 
@@ -212,7 +212,7 @@ def instagram():
         else:
             os.system("clear")
         print("Password Manager | By Morozov")
-        print("[Email] None\n[Login] akbaraliev.107\n[Password] Azimjon2008")
+        print("[Email] None\n[Login] none\n[Password] none")
         time.sleep(30)
         main()
     
