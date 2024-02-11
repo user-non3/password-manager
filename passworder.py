@@ -6,7 +6,7 @@ import time
 import getpass
 import random
 
-code = 'Azimjon2008'
+code = ''
 
 def main():
     global code
